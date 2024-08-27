@@ -1,0 +1,5 @@
+n = 28
+d = 3
+a = n ** (1 / d)
+i = int(a)
+print (n , d , a , i)
